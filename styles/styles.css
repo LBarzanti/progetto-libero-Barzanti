@@ -1,0 +1,78 @@
+.nav-title
+{
+    color:darkgreen;
+    font-size: 24px;
+}
+
+.nav-color
+{
+    background-color:#808080;
+}
+
+#nav-text-color
+{
+    color: darkgreen;
+}
+
+.titolo
+{
+    color: white;
+    text-align: center;
+}
+
+.vendita
+{
+    margin-left: 60px;
+    float: left;
+    margin-bottom: 60px;
+    height: 300px;
+}
+
+.bottone-revolver
+{
+    margin-left: 40px;
+}
+
+.bottone-prenota
+{
+    margin-left: 75px;
+}
+
+.vendita-pistole
+{
+    height: 500px;
+}
+.dc
+{
+    border: 7px solid rgb(128, 255, 0);
+}
+.cs
+{
+    text-align: center;
+    color: rgb(128, 255, 0);
+}
+.carrello
+{
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+    width: 50%;
+}
+.bottone-ordina
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #808080;
+    border-color: #808080;
+    width: 8%;
+    text-align: center;
+}
+.sfondo-contatti
+{
+    background-color:#00ffff;
+}
+.immagini-contatti
+{
+    width: 100%;
+}
